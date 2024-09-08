@@ -1,0 +1,18 @@
+C:\External Libs\**
+
+ "${fileDirname}/*.cpp",
+                "-g",
+                "${fileDirname}/Libs/*.cpp",
+                "-I" ,
+                "C:\\External Libs\\GLEW\\include",
+                "-I" ,
+                "C:\\External Libs\\GLFW\\include",
+                "-I" ,
+                "C:\\External Libs\\GLM",
+                "-L",
+                "C:\\External Libs\\GLEW\\lib\\Release\\x64",
+                "-L",
+                "C:\\External Libs\\GLFW",
+                "-l","glew32",
+                "-l","glfw3dll",
+                "-l","opengl32",

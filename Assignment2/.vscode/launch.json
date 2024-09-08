@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AllGraphics",
+            "request": "launch",
+            "mainClass": "AllGraphics",
+            "projectName": "Assignment2_6d170fe0"
+        },
+        {
+            "type": "java",
+            "name": "Assignment2_64050051_64050122",
+            "request": "launch",
+            "mainClass": "Assignment2_64050051_64050122",
+            "projectName": "Assignment2_6d170fe0"
+        },
+        {
+            "type": "java",
+            "name": "Assignment2_65050022_65050042",
+            "request": "launch",
+            "mainClass": "Assignment2_65050022_65050042",
+            "projectName": "Assignment2_6d170fe0"
+        },
+        {
+            "type": "java",
+            "name": "EggSignalAnimation",
+            "request": "launch",
+            "mainClass": "EggSignalAnimation",
+            "projectName": "Assignment2_6d170fe0"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "Assignment2_6d170fe0"
+        }
+    ]
+}
